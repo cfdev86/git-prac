@@ -2,3 +2,6 @@ Tomato
 Spinach
 Kale
 Pumpkin
+Onion
+Beans
+Broccoli
