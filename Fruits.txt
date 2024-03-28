@@ -6,3 +6,4 @@ Pear
 Guava
 Jackfruit
 Pomegranate
+Papaya
