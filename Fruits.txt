@@ -1,3 +1,6 @@
 Apple
 Banana
 Mango
+Kiwi
+Pear
+Guava
