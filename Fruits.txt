@@ -1,3 +1,8 @@
 Apple
 Banana
 Mango
+Kiwi
+Pear
+Guava
+Jackfruit
+Pomegranate
