@@ -7,3 +7,4 @@ Guava
 Jackfruit
 Pomegranate
 Papaya
+Watermelon
